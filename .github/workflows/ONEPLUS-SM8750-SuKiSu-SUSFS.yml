@@ -28,7 +28,7 @@ on:
       KERNEL_NAME:
         description: "内核名称修改(中文不行)"
         required: true
-        default: '-By-Gki-android'
+        default: '-android14-11-0-ge2f97ae7184b (aarch64)'
       KERNEL_TIME:
        description: "内核构建日期更改(默认为原厂)"
        required: true
