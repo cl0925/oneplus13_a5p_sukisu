@@ -1,4 +1,4 @@
-name: oneplus_13
+name: oneplus12_v
 on:
   workflow_dispatch:
     inputs:
